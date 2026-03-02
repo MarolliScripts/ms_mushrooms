@@ -2,6 +2,7 @@
 Our new script allows you to easily collect hallucinogenic mushrooms.
 
 ## Preview:
+<a href='https://youtu.be/3miFxjSEwng'>YouTube video!</a>
 
 ## What do I need?
 - ESX Framework
